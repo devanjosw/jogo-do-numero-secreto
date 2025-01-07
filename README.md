@@ -11,5 +11,5 @@
 </div>
 
 # Time
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/191303450?v=4" width=115><br><sub>Walber Anjos</sub>](https://https://github.com/devanjosw) |  |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/191303450?v=4" width=115><br><sub>Walber Anjos</sub>](https://github.com/devanjosw) |  |
 | :---: | :---: |
